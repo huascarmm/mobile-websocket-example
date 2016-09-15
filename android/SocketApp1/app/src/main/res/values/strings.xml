@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SocketApp1</string>
+    <string name="saludo">Saludo desde fragmento</string>
+    <string name="configuracion">Select de configuraciones</string>
+</resources>
